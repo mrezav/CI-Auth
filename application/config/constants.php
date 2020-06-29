@@ -88,4 +88,4 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 		Nama website
 -----------------------------*/
 
-define('SITE_NAME', 'Cuti Pegawai');
+define('SITE_NAME', 'CI-Auth');
